@@ -45,5 +45,3 @@ class PrintLargest {
 		print3largest(arr, n);
 	}
 }
-/*This code is contributed by Prakriti Gupta
-and edited by Ayush Singla(@ayusin51)*/
