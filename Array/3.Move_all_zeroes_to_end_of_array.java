@@ -34,4 +34,3 @@ class PushZero
 			System.out.print(arr[i]+" ");
 	}
 }
-/* This code is contributed by Devesh Agrawal */
