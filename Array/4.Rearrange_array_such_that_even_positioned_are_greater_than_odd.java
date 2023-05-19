@@ -44,5 +44,3 @@ class GFG {
 		rearrange(arr, n);
 	}
 }
-
-// This code is contributed by avanitrachhadiya2155
