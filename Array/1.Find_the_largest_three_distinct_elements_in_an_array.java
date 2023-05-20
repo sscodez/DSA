@@ -37,7 +37,7 @@ class PrintLargest {
 		System.out.println("Three largest elements are " + first + " " + second + " " + third);
 	}
 
-	/* Driver program to test above function*/
+	
 	public static void main(String[] args)
 	{
 		int arr[] = { 12, 13, 1, 10, 34, 1 };
