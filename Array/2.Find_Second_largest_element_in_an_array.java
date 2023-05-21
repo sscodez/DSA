@@ -48,4 +48,3 @@ print2largest(arr, n);
 }
 }
 
-// This code is contributed by gauravrajput1
