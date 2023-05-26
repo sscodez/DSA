@@ -35,7 +35,7 @@ class GFG {
 			System.out.println("No Majority Element");
 	}
 
-	// Driver code
+	// Main Function 
 	public static void main(String[] args)
 	{
 
