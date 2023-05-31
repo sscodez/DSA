@@ -42,7 +42,7 @@ class GFG {
 		int arr[] = { 1, 1, 2, 1, 3, 5, 1 };
 		int n = arr.length;
 
-		// Function calling
+		
 		findMajority(arr, n);
 	}
 }
