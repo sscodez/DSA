@@ -7,6 +7,7 @@ class GFG {
 
 	// Function to find Majority element
 	// in an array
+	//Find Majority Function
 	static void findMajority(int arr[], int n)
 	{
 		int maxCount = 0;
